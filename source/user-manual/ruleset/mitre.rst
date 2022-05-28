@@ -47,7 +47,7 @@ Add the following lines to /var/ossec/etc/rules/local_rules.xml:
 
 Restart Wazuh, and you will have finished configuring the rule. 
 
-If you want to configure a rule using two o more techniques, you can do it as follows:
+If you want to configure a rule using two or more techniques, you can do it as follows:
 
 .. code-block:: xml
 
